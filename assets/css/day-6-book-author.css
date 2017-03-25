@@ -1,0 +1,135 @@
+body {
+	background-color: #fafafa;
+	font-size: 16px;
+}
+
+@media screen and (max-width: 400px) {
+	img {
+		margin: 0 auto;
+    	display: block;
+		width: 150px;
+	}
+}
+
+.navbar-default .navbar-toggle {
+	background-color: #fff;
+	border-color: #ef605e;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ef605e;
+}
+
+#author {
+	color: #ef605e;
+}
+
+#links > li {
+	color: #ef605e;
+}
+
+.jumbotron {
+	background-color: transparent;
+	margin: 100px 0 0;
+}
+
+.jumbo-2 {
+	background-color: #fff;
+	margin: 50px 0 0;
+}
+
+#chuck {
+	border-radius: 5px;
+}
+
+.jumbo-title {
+	/* color: #fff !important; */
+	text-shadow: 2px 2px 30px rgba(0, 0, 0, 0.33);
+}
+
+#learn-more {
+	display: block !important;
+    margin: 50px 0;
+}
+
+.btn {
+	font-size: 18px;
+	padding: 15px 100px;
+}
+
+hr {
+	border-top: 2px solid #969696;
+}
+
+.book {
+	margin: auto;
+	width: 200px;
+}
+
+.book-row {
+	margin: auto;
+	/* max-width: 840px; */
+	padding: 50px 0;
+}
+
+.shadow-right {
+	box-shadow: 6px 6px 30px rgba(0, 0, 0, 0.5);
+}
+
+.shadow-left {
+	box-shadow: -6px 6px 30px rgba(0, 0, 0, 0.5);
+}
+
+#rant {
+	font-size: 20px;
+	margin: 50px 0 0;
+    background-color: #f4e2a6;
+    padding: 50px 200px;
+}
+
+#fight-club {
+	font-size: 30px;
+    background-color: #fdbab8;
+    padding: 50px 200px;
+}
+
+#invisible-monsters {
+	font-size: 19px;
+    background-color: #fad0e8;
+    padding: 50px 200px;
+}
+
+#haunted {
+	font-size: 28px;
+    background-color: #cacae9;
+    padding: 50px 200px;
+}
+
+#diary {
+	font-size: 28px;
+    background-color: #eac3b5;
+    padding: 50px 200px;
+}
+
+#lullaby {
+	font-size: 24px;
+    background-color: #edefb3;
+    padding: 50px 200px;
+}
+
+#choke {
+	font-size: 24px;
+    background-color: #c48982;
+    padding: 50px 200px;
+}
+
+#survivor {
+	font-size: 24px;
+    background-color: #f4978c;
+    padding: 50px 200px;
+}
+
+footer {
+  padding: 30px 0 20px 0;
+  background-color: #fff;
+}
